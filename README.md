@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**MigueljuniorS/MiguelJuniorS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Miguel Junior
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvovendo na linguagem javaScript
+-Utilizo esse espaço ara minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 
+
+00001100148541sp@al.educacao.sp.gov.br
+
+@miguel.jsil
+
+![](https://media1.tenor.com/m/vpJKtla333QAAAAd/ok-crying.gif)
